@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/H2XSqm3.png" alt="Microsoft Remote Desktop"/>
+<img src="https://i.imgur.com/H2XSqm3.png" height="60%" width="60%" alt="Microsoft Remote Desktop"/>
 </p>
 
 <h1>Remote Desktop Setup in Azure</h1>
